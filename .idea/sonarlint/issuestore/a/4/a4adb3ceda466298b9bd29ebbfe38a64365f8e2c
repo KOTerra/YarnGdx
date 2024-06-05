@@ -1,0 +1,123 @@
+
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼µŞU
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÛƒÈ×ùÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥ÑŸùÿÿÿÿ
+p
+java:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÈÑÚë
+p
+java:S2293Î"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷Şİà
+p
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å„ô²
+p
+java:S2293ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍÅ¦ñ
+Z
+java:S6208¤"CMerge the previous cases into this one using comma-separated label.(ÿÈ¯â
+_
+java:S6208Í"CMerge the previous cases into this one using comma-separated label.(üôÒ§øÿÿÿÿ
+y
+java:S1319"dThe type of "strings" should be an interface such as "Map" rather than the implementation "HashMap".(¼µŞU
+}
+java:S1319"bThe type of "nodes" should be an interface such as "Map" rather than the implementation "HashMap".(ÛƒÈ×ùÿÿÿÿ
+„
+java:S1319œ"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(‡º™–
+ƒ
+java:S1319Í"lThe type of "instructions" should be an interface such as "List" rather than the implementation "ArrayList".(ÈÑÚë
+z
+java:S1319Î"cThe type of "labels" should be an interface such as "Map" rather than the implementation "HashMap".(÷Şİà
+{
+java:S1319Ï"dThe type of "tags" should be an interface such as "List" rather than the implementation "ArrayList".(Å„ô²
+
+java:S1319ğ"hThe type of "operands" should be an interface such as "List" rather than the implementation "ArrayList".(ÍÅ¦ñ
+f	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ö¯
+f	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¾©Å
+f	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜´Ë
+k	java:S117}"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Âş³şÿÿÿÿ
+l	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÿşÿÿÿÿ
+l	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÿşÿÿÿÿ
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+h
+java:S1104"SMake strings a static final constant or non-public and provide accessors if needed.(¼µŞU
+l
+java:S1104"QMake nodes a static final constant or non-public and provide accessors if needed.(ÛƒÈ×ùÿÿÿÿ
+g
+java:S1104Ì"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+o
+java:S1104Í"XMake instructions a static final constant or non-public and provide accessors if needed.(ÈÑÚë
+i
+java:S1104Î"RMake labels a static final constant or non-public and provide accessors if needed.(÷Şİà
+g
+java:S1104Ï"PMake tags a static final constant or non-public and provide accessors if needed.(Å„ô²
+q
+java:S1104Ğ"ZMake sourceStringId a static final constant or non-public and provide accessors if needed.(ëÀ­ù
+q
+java:S1104ï"UMake operation a static final constant or non-public and provide accessors if needed.(ÒÉÜşÿÿÿÿ
+k
+java:S1104ğ"TMake operands a static final constant or non-public and provide accessors if needed.(ÍÅ¦ñ
+S
+java:S4973Û"<Strings and Boxed types should be compared using "equals()".(î«“
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÛÃë
+V	java:S125"<This block of commented-out lines of code should be removed.(Ä¢éÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Õ´©¸
+Q	java:S125%"<This block of commented-out lines of code should be removed.(Ôåš
+V	java:S125m"<This block of commented-out lines of code should be removed.(Åıêÿÿÿÿÿ
+I
+java:S1135ˆ"2Complete the task associated to this TODO comment.(¡Åà
+I
+java:S1135 "2Complete the task associated to this TODO comment.(¶Ö¨
+q	java:S116©"VRename this field "line_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¥ŞÓüÿÿÿÿ
+o	java:S116ª"TRename this field "node_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çè¸¾ıÿÿÿÿ
+W	java:S125»"<This block of commented-out lines of code should be removed.(‚ÌŒÛûÿÿÿÿ
+i	java:S100Ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š”øêÿÿÿÿÿ
+A
+java:S2114Ü"%Remove or correct this "addAll" call.( ’í×ÿÿÿÿÿ
+o
+java:S2975â"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(úËÇ’øÿÿÿÿ
+d
+java:S1182â"HUse super.clone() to create and seed the cloned instance to be returned.(úËÇ’øÿÿÿÿ
+]
+java:S1126ó"AReplace this if-then-else statement by a single return statement.(ÒãÅ¡ÿÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Ã‰ˆƒúÿÿÿÿ
+p	java:S115¯"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ïŒõ×
+o	java:S115±"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‚Ø”R
+p	java:S115³"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ğ¯ğÂ
+p	java:S115µ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(À¼ñ€
+p	java:S115·"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(äç‚ú
+u	java:S115¹"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€ì§¬úÿÿÿÿ
+p	java:S115¼"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÇİªË
+p	java:S115¾"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÖÇ
+o	java:S115À"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(´¤£A
+p	java:S115Â"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŸËáÊ
+u	java:S115Ä"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(À‘ï½ùÿÿÿÿ
+p	java:S115Ç"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Â¦±Ä
+u	java:S115É"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±ˆÅÆÿÿÿÿÿ
+p	java:S115Ì"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÔËÂ³
+p	java:S115Î"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(•Ì¿±
+p	java:S115Ğ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÛÑ—
+p	java:S115Ò"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ıÍ¶ö
+u	java:S115Ô"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Í¨ç€ıÿÿÿÿ
+h
+java:S2786­"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(óÎq
+p	java:S115Ù"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(’âúª
+p	java:S115Ù"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(’âúª
+p	java:S115Ù"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(’âúª
+p	java:S115Ù"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(’âúª
+o
+java:S2975ü"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(˜¹âÅùÿÿÿÿ
+d
+java:S1182ü"HUse super.clone() to create and seed the cloned instance to be returned.(˜¹âÅùÿÿÿÿ
+C
+java:S1125Œ"'Remove the unnecessary boolean literal.(ØôÃ€ÿÿÿÿÿ
+X
+java:S1126²"AReplace this if-then-else statement by a single return statement.(Ó¬Í“
+g
+java:S1206û"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ
+@
+java:S1905ª")Remove this unnecessary cast to "String".(½µø´
+E
+java:S1905Ğ")Remove this unnecessary cast to "String".(Ê¶»ïûÿÿÿÿ
+G
+java:S1905Ñ")Remove this unnecessary cast to "String".(“âá8š½´ôß1

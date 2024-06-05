@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YarnGdx:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/YarnGdx_jar</output-path>
+    <root id="archive" name="YarnGdx.jar">
+      <element id="module-output" name="YarnGdx" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/tools/tmp-bin/antlr4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/tools/awaitility-4.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/tools/jsonbeans-0.9.jar" path-in-jar="/" />
+      <element id="module-source" name="YarnGdx" />
+    </root>
+  </artifact>
+</component>
