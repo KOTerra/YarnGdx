@@ -15,3 +15,15 @@ J
 YarnGdx.iml,b\f\bf6e16abaee41fb3373faa5690dd7fb68e4ea521
 X
 (gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
+?
+settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
+@
+src/YARN.gwt.xml,6\0\6040cd6905284f4d167f81d4e027275ba44f40d0
+I
+src/tests/YarnLibgdx.java,f\9\f90dea340a8fe66f52c4482548c1a7c49b135bc9
+^
+.test/resources/Tests/Projects/Space/Sally.yarn,5\4\541ef346315bedad71464ca8eb76c8b133af946b
+U
+%src/com/kyper/yarn/NumberPlurals.java,2\b\2bebff0484b6bb05b183b19c5a883c5dff019fa5
+<
+build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
