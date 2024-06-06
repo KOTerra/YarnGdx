@@ -13,3 +13,5 @@ J
 tools/generate_compiler.sh,3\e\3effcaa79fbf329cdbd1da77cdba2263d9019674
 ;
 YarnGdx.iml,b\f\bf6e16abaee41fb3373faa5690dd7fb68e4ea521
+X
+(gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e

@@ -1,19 +1,13 @@
 
-;
-java:S5786"Remove this 'public' modifier.(κ ‰Κ8‚Μτί1
-@
-java:S5786)"Remove this 'public' modifier.(”Όψÿÿÿÿ8‚Μτί1
-@
-java:S5786C"Remove this 'public' modifier.(ωƒÿΦϊÿÿÿÿ8‚Μτί1
-;
-java:S5786o"Remove this 'public' modifier.(ΰΎ”Ι8‚Μτί1
-@
-java:S5786{"Remove this 'public' modifier.(―Σϋ—ψÿÿÿÿ8‚Μτί1
-<
-java:S5786‹"Remove this 'public' modifier.(³β ”8‚Μτί1
-<
-java:S5786 "Remove this 'public' modifier.(ΠΑ½¨8‚Μτί1
-A
-java:S5786±"Remove this 'public' modifier.(ÿέδόÿÿÿÿ8‚Μτί1
-;
-java:S5786"Remove this 'public' modifier.(¶«„8‚Μτί1
+j
+java:S1192p"MDefine a constant instead of duplicating this literal "Example.yarn" 3 times.(ΔαΗÒ8πττώ1
+h
+java:S1192 "FDefine a constant instead of duplicating this literal "Sally" 4 times.(αςΧόÿÿÿÿ8πττώ1
+L	java:S106"+Replace this use of System.out by a logger.(ΖνΕΡόÿÿÿÿ8¨πττώ1
+G	java:S106*"+Replace this use of System.out by a logger.(‚ταΌ8¬πττώ1
+O
+java:S11354"2Complete the task associated to this TODO comment.(«μά8―πττώ1
+]	java:S125v"<This block of commented-out lines of code should be removed.(Μ»™όÿÿÿÿ8Ίπττώ1
+O
+java:S1602„",Remove useless curly braces around statement(ςνβ»ϊÿÿÿÿ8½πττώ1
+M	java:S106²"+Replace this use of System.out by a logger.(Ò¤¤Γÿÿÿÿÿ8Επττώ1

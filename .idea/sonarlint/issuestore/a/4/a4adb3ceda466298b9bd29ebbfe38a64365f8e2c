@@ -13,10 +13,6 @@ p
 java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å„ô²
 p
 java:S2293ð"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍÅ¦ñ
-Z
-java:S6208¤"CMerge the previous cases into this one using comma-separated label.(ÿÈ¯â
-_
-java:S6208Í"CMerge the previous cases into this one using comma-separated label.(üôÒ§øÿÿÿÿ
 y
 java:S1319"dThe type of "strings" should be an interface such as "Map" rather than the implementation "HashMap".(¼µÞU
 }
